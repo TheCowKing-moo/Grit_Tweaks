@@ -1,0 +1,7 @@
+//Items
+item.test.name=Test
+
+//Blocks
+tile.compressed_steel.name=Compressed Steel
+tile.double_compressed_steel.name=Double Compressed Steel
+tile.triple_compressed_steel.name=Triple Compressed Steel

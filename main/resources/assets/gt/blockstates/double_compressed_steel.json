@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "gt:double_compressed_steel" }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "BBB",
+        "BBB"
+    ],
+    "key":
+    {
+        "B":
+        {
+            "item": "gt:double_compressed_steel"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gt:triple_compressed_steel"
+    }
+}
